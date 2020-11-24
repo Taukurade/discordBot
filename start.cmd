@@ -1,2 +1,1 @@
-python main.py
-pause
+cmd -k python3 main.py
