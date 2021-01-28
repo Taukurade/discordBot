@@ -1,1 +1,1 @@
-cmd -k python3 main.py
+cmd /k python3 main.py
