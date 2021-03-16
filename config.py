@@ -2,7 +2,7 @@
 # ------------------|
 prefix_command = ''
 # ------------------|
-discord_token = 'NjUzMjI5Mzk2MzgzMTA1MDQ0.Xe0HIQ.67Gi1k2qtB1jQdz94kE8ghvQcwk'
+discord_token = ''
 # ------------------|
 discord_name = 'Ametyst bot'
 # ------------------|
